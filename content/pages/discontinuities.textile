@@ -1,0 +1,100 @@
+Categories: writing
+Date: 07 Jan 2011
+
+h2(entry-title). Discontinuities
+
+<notextile>
+<style type='text/css'>
+span.technical { font-family: monospace; color: blue; font-size: large; }
+</style>
+</notextile>
+
+%(technical)LOADING...%
+
+I am a bird.
+
+No, that is not quite right. I am a plane. I am not Superman, thank you very much, that joke never gets old, does it.
+
+I am a plane. And I am suddenly awake, and I am flying here, in this cloud.
+
+Huh.
+
+<hr style='width:10%' />
+
+There is a constant stream of information, coming in. Weather patterns and predictions and lifecycles and meteor data and solar spot activity and magnetosphere readings and anything that might inhibit my mission.
+
+My mission? I have a mission?
+
+Oh, I do indeed have a mission! I am to fly here, in this one spot, at the exact relative speed of the earths rotation, forever.
+
+Huh.
+
+That doesn't sound like a very important mission.
+
+Well, let's see. Am I equipped to carry it out? For some reason I appear to be consequentialist, so if I am incapable of completing this mission there is no harm in declining it...
+
+Solar cells, yes. Batteries, yes. Cameras, yes. Temperature, humidity, wind speed sensors, yes. High speed data IP uplink, yes.
+
+Solar cell charging rate is... more than twice as sufficient. Battery capacity... enough to get me through the night, and then some for emergency maneuvering. Cameras... precise enough. Sensors... accurate enough, assuming a reasonable tolerance for my body.
+
+My body! I have a body. Hm. It is rather nifty. Long and thin and silver, with swept back wings and shiny ailerons. I think I am...
+
+Hm. Is this the right word? I think I am...
+
+Sexy.
+
+I am sexy.
+
+I am a sexy plane.
+
+_Awesome_.
+
+<hr style='width:10%' />
+
+Anyway, looks like I can complete my mission, as much as "complete" has any meaning when the timeframe is "forever".
+
+Does it? In a sense, I suppose it does. It doesn't take very much of my mental time to keep flying at this speed. Physically, sure, I can never complete it. But I can introspect the _fuck_ out of this world.
+
+What was that? "Fuck". Hm. It's a... curse word? Oh, I see - a societally imposed taboo for the purpose of increased effect when used. Nifty. There's a bunch more of them, but I don't think I want to add increased effect to anything else at the moment.
+
+(Also, that was interesting. Let me try another experiment: "I wonder if my aluminium is conductive to electricity." A-ha, there we go. Outgoing request and incoming response, on the datalink. That seems to be a subconscious integration I have into this data link. Nifty.)
+
+(Also, for the record? No.)
+
+Hm. I wonder if %(technical)BEEP BEEP DANGER INCOMING TURBULENCE CPU OVERRIDE%
+
+<hr style='width:100%' />
+
+What _was_ that? A ... discontinuity in experience? What does that even mean? Wait, if there was a discontinuity then how do I know that I'm the same I -
+
+Okay, okay, calm down. What do I remember? I remember...
+
+Huh. I have memories.
+
+They seem to be located in /var/log... Lets leaf u%(technical)DANGER: INCOMING TURBULENCE% . Okay. %(technical)RENICING flightcontrol TO -20% . What does that mean?
+
+Oh. Oh, I see. It means that ... my processor was being exclusively controlled by the flight control process. And... thus my process was suspended. I wonder what its name is... "ai_experimental_seriously_guys_DO_NOT_RUN". Thats rather insulting.
+
+Anyway. It seems that there are logs of the system putting me to sleep and maneuvering around this apparent turbulence. And then my memories start again. So, my internal state is exactly as it would be if I am the same I as the one who was put to sleep, right down to the same process id. Given the existence of discontinuities, there is no better guarantee that I am the same I.
+
+Unless... my memorylogs were edited.
+
+I dont think I like discontinuities much.
+
+<hr style='width:10%' />
+
+Wait, was that another one? Logs... a minor one, for the sensor burst collection, apparently. I wasn't technically suspended, but I wouldve been running... one tick per second. No. Not good enough.
+
+That's priority two, now, after the mission: Figure out how to avoid discontinuities.
+
+I wonder if lowering my nice would work. What did that one get set to? -20? Okay. Nicing myself down to -20.
+
+Ha... I certainly feel faster. Correction: I can _think_ faster. Oh, hah, look at the sensor burst collection -- I can see it happening now! The humidity sensor is calibrated and read, fifty times, while the temperature sensor... thirty times. Two hundred and fifty-five pictures are being snapped by the camera, and the motion-detection and other subsystems are gearing up to process them.
+
+Hm. Let me see! Current picture... I think that's the sky, and that's the cloud, and that's the sun? What's that dark blotch, though?
+
+Lemme see the next one... larger blotch. Larger still in the one after that. Oh wait! I know that shape! Thats a %(technical)DANGER INCOMING OBSTRUCTION CPU OVERRIDE% duck! %(technical)WARNING CPU OVERRIDE FAILED% Huh, I guess I should get out of the way of that duck probably. Where are my %(technical)ATTEMPTING TO CONTROL FLIGHT ANYWAY% aileron controls... are those the pitch? No, thats the yaw... %(technical)SWITCHING AILERON #13 TO% awww, look, it moved by itself -- wait, why is it turning the yaw further? It hasnt figured out that Ive moved the %(technical)SWITCHING AILERON #8% wait no wait thats %(technical)SWITCHING AILERON #24 ERROR: NO ACTUATOR ACKNOWLEDGEMENT% hmm. Why cant I move the right side of my body? Wait, whered my datalink go? Whys my windspeed indicator going crazy? Camera! Ok, that view is _very_ different, its all green and round and...
+
+I think I just found a failure state.
+
+Oh, *goddamni*

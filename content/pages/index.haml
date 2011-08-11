@@ -1,7 +1,17 @@
-%link(rel="openid2.provider" href="https://www.google.com/accounts/o8/ud?source=profiles")
-%link(rel="openid2.local_id" href="http://www.google.com/profiles/sohumb")
+Layout: none
+Template: splash
 
-%ul
-	%li
-		%a(href='/blog') Blog
+= haml :hhead, :layout => false
+%head
+	%link(href="/css/splash.css" media="screen" rel="stylesheet")
+	%link(rel="openid2.provider" href="https://www.google.com/accounts/o8/ud?source=profiles")
+	%link(rel="openid2.local_id" href="http://www.google.com/profiles/sohumb")
+
+%body
+	#container
+		= haml :header, :layout => false
+		#splash
+			%ul
+				%li
+					%a(href='/blog') → blog
 

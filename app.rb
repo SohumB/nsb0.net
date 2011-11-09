@@ -141,6 +141,10 @@ module Nesta
 			redirect '/skyrates/halfmoderate'
 		end
 
+		get '/resume.pdf' do
+			redirect 'http://dl.dropbox.com/u/7303416/resume.pdf', 303
+		end
+
   end
 end
 

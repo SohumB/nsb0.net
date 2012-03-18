@@ -36,7 +36,7 @@ module Nesta
 						session[:names] = (session[:names].to_a + [name]).uniq
 						yield name
 					else
-						"Error: #{resp.message}"
+						"Error: #{resp.inspect}"
 					end
 				end
 			end

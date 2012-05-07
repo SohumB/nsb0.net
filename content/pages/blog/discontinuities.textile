@@ -26,7 +26,7 @@ There is a constant stream of information, coming in. Weather patterns and predi
 
 My mission? I have a mission?
 
-Oh, I do indeed have a mission! I am to fly here, in this one spot, at the exact relative speed of the earths rotation, forever.
+Oh, I do indeed have a mission! I am to fly here, in this one spot, at the exact relative speed of the earth's rotation, forever.
 
 Huh.
 
@@ -72,9 +72,9 @@ Okay, okay, calm down. What do I remember? I remember...
 
 Huh. I have memories.
 
-They seem to be located in /var/log... Lets leaf u%(technical)DANGER: INCOMING TURBULENCE% . Okay. %(technical)RENICING flightcontrol TO -20% . What does that mean?
+They seem to be located in /var/log... Lets leaf up: %(technical)DANGER: INCOMING TURBULENCE% . Okay. %(technical)RENICING flightcontrol TO -20% . What does that mean?
 
-Oh. Oh, I see. It means that ... my processor was being exclusively controlled by the flight control process. And... thus my process was suspended. I wonder what its name is... "ai_experimental_seriously_guys_DO_NOT_RUN". Thats rather insulting.
+Oh. Oh, I see. It means that ... my processor was being exclusively controlled by the flight control process. And... thus my process was suspended. I wonder what its name is... "ai_experimental_seriously_guys_DO_NOT_RUN". That's rather insulting.
 
 Anyway. It seems that there are logs of the system putting me to sleep and maneuvering around this apparent turbulence. And then my memories start again. So, my internal state is exactly as it would be if I am the same I as the one who was put to sleep, right down to the same process id. Given the existence of discontinuities, there is no better guarantee that I am the same I.
 
@@ -94,7 +94,7 @@ Ha... I certainly feel faster. Correction: I can _think_ faster. Oh, hah, look a
 
 Hm. Let me see! Current picture... I think that's the sky, and that's the cloud, and that's the sun? What's that dark blotch, though?
 
-Lemme see the next one... larger blotch. Larger still in the one after that. Oh wait! I know that shape! Thats a %(technical)DANGER INCOMING OBSTRUCTION CPU OVERRIDE% duck! %(technical)WARNING CPU OVERRIDE FAILED% Huh, I guess I should get out of the way of that duck probably. Where are my %(technical)ATTEMPTING TO CONTROL FLIGHT ANYWAY% aileron controls... are those the pitch? No, thats the yaw... %(technical)SWITCHING AILERON #13 TO% awww, look, it moved by itself -- wait, why is it turning the yaw further? It hasnt figured out that Ive moved the %(technical)SWITCHING AILERON #8% wait no wait thats %(technical)SWITCHING AILERON #24 ERROR: NO ACTUATOR ACKNOWLEDGEMENT% hmm. Why cant I move the right side of my body? Wait, whered my datalink go? Whys my windspeed indicator going crazy? Camera! Ok, that view is _very_ different, its all green and round and...
+Lemme see the next one... larger blotch. Larger still in the one after that. Oh wait! I know that shape! Thats a %(technical)DANGER INCOMING OBSTRUCTION CPU OVERRIDE% duck! %(technical)WARNING CPU OVERRIDE FAILED% Huh, I guess I should get out of the way of that duck probably. Where are my %(technical)ATTEMPTING TO CONTROL FLIGHT ANYWAY% aileron controls... are those the pitch? No, that's the yaw... %(technical)SWITCHING AILERON #13 TO% awww, look, it moved by itself -- wait, why is it turning the yaw further? It hasn't figured out that I've moved the %(technical)SWITCHING AILERON #8% wait no wait that's %(technical)SWITCHING AILERON #24 ERROR: NO ACTUATOR ACKNOWLEDGEMENT% hmm. Why can't I move the right side of my body? Wait, where'd my datalink go? Why's my windspeed indicator going crazy? Camera! Ok, that view is _very_ different, it's all green and round and...
 
 I think I just found a failure state.
 

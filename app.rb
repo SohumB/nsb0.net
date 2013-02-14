@@ -145,6 +145,10 @@ module Nesta
 			redirect 'http://dl.dropbox.com/u/7303416/resume.pdf', 307
 		end
 
+		get '/cv.pdf' do
+			redirect 'http://dl.dropbox.com/u/7303416/cv.pdf', 307
+		end
+
   end
 end
 

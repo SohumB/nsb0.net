@@ -25,6 +25,7 @@ GEM
     haml (3.1.6)
     maruku (0.6.0)
       syntax (>= 1.0.0)
+    memcachier (0.0.2)
     nesta (0.9.5)
       RedCloth (~> 4.2)
       haml (~> 3.1)
@@ -57,6 +58,7 @@ DEPENDENCIES
   dalli
   eventmachine!
   gdata_19
+  memcachier
   nesta (= 0.9.5)
   pg
   rack-flash3 (~> 1.0.1)

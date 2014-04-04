@@ -1,5 +1,6 @@
 source 'http://rubygems.org'
 
+ruby '1.9.3'
 gem 'nesta', '0.9.5'
 gem "rack-openid", "~> 1.3.1"
 gem 'dalli'

@@ -58,6 +58,10 @@ module Nesta
     enable :sessions
     use Rack::Flash
 
+    before do
+      headers "X-Clacks-Overhead" => "GNU Terry Pratchett"
+    end
+
     ["/skyrates/gravatar/:default/:rating/:name", "/skyrates/gravatar/:name"].each do |path|
       get path do
         response["Cache-Control"] = "max-age=3000, public"

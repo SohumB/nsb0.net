@@ -4,11 +4,8 @@ Template: splash
 %head
 	= haml :hhead, :layout => false
 	%link(href="/css/splash.css" media="screen" rel="stylesheet")
-	%link(rel="openid.server" href="http://pip.verisignlabs.com/server")
-	%link(rel="openid.delegate" href="http://sohumb.pip.verisignlabs.com")
-	%link(rel="openid2.provider" href="http://pip.verisignlabs.com/server")
-	%link(rel="openid2.local_id" href="http://sohumb.pip.verisignlabs.com")
-	%meta(http-equiv="X-XRDS-Location" content="http://pip.verisignlabs.com/user/sohumb/yadisxrds")
+	%link(rel="openid2.provider" href="https://openid.stackexchange.com/openid/provider")
+	%link(rel="openid2.local_id" href="https://openid.stackexchange.com/user/b548b55f-facd-4a4f-87d8-4f79318c22eb")
 
 %body
 	= haml :header, :layout => false
